@@ -47,7 +47,7 @@ team_t team = {
 /*
  * If NEXT_FIT defined use next fit search, else use first-fit search
  */
-#define NEXT_FIT
+#define NEXT_FIT 0
 
 /* Basic constants and macros */
 #define WSIZE       4       /* Word and header/footer size (bytes) */
