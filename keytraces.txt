@@ -1,0 +1,3 @@
+"coalescing-bal.rep",\
+"realloc-bal.rep",\
+"realloc2-bal.rep"
